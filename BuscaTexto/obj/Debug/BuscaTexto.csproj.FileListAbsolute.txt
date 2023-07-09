@@ -1,0 +1,14 @@
+D:\BuscaTexto 2020 (C-Sharp)\BuscaTextoGitHub\BuscaTexto\obj\Debug\BuscaTexto.csproj.AssemblyReference.cache
+D:\BuscaTexto 2020 (C-Sharp)\BuscaTextoGitHub\BuscaTexto\obj\Debug\BuscaTexto.csproj.SuggestedBindingRedirects.cache
+D:\BuscaTexto 2020 (C-Sharp)\BuscaTextoGitHub\BuscaTexto\obj\Debug\BuscaTexto.MainForm.resources
+D:\BuscaTexto 2020 (C-Sharp)\BuscaTextoGitHub\BuscaTexto\obj\Debug\BuscaTexto.BuscarPalavraForm.resources
+D:\BuscaTexto 2020 (C-Sharp)\BuscaTextoGitHub\BuscaTexto\obj\Debug\BuscaTexto.Properties.Resources.resources
+D:\BuscaTexto 2020 (C-Sharp)\BuscaTextoGitHub\BuscaTexto\obj\Debug\BuscaTexto.csproj.GenerateResource.cache
+D:\BuscaTexto 2020 (C-Sharp)\BuscaTextoGitHub\BuscaTexto\obj\Debug\BuscaTexto.csproj.CoreCompileInputs.cache
+D:\BuscaTexto 2020 (C-Sharp)\BuscaTextoGitHub\BuscaTexto\bin\Debug\BuscaTexto.exe.config
+D:\BuscaTexto 2020 (C-Sharp)\BuscaTextoGitHub\BuscaTexto\bin\Debug\BuscaTexto.exe
+D:\BuscaTexto 2020 (C-Sharp)\BuscaTextoGitHub\BuscaTexto\bin\Debug\BuscaTexto.pdb
+D:\BuscaTexto 2020 (C-Sharp)\BuscaTextoGitHub\BuscaTexto\bin\Debug\MaterialSkin.dll
+D:\BuscaTexto 2020 (C-Sharp)\BuscaTextoGitHub\BuscaTexto\obj\Debug\BuscaTexto.csproj.CopyComplete
+D:\BuscaTexto 2020 (C-Sharp)\BuscaTextoGitHub\BuscaTexto\obj\Debug\BuscaTexto.exe
+D:\BuscaTexto 2020 (C-Sharp)\BuscaTextoGitHub\BuscaTexto\obj\Debug\BuscaTexto.pdb
