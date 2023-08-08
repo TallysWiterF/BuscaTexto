@@ -1,12 +1,24 @@
 <h1 align="center">Busca Texto 🧐</h1>
 
 <p align="center">
-Desktop application using Windows Forms to search for words.
+Aplicativo desktop utilizando Windows Forms para aplicação de testes de métodos de busca texto.
 </p>
 
 <br />
 
 <h3 align="center">🟢 Status: Desenvolvimento Concluído</h3>
+
+<br />
+
+<div align="center"> 
+  <p>
+    Foram utilizados os seguintes métodos de busca texto: 
+      <li >Força Bruta</li>
+      <li>Rabin-Karp</li>
+      <li>KMP</li>
+      <li>Boyer-Moore</li>
+  </p>
+</div>
 
 <br />
 
