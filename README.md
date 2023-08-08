@@ -6,12 +6,12 @@ Desktop application using Windows Forms to search for words.
 
 <br />
 
-<h3 align="center">🟢 Status: Complete development</h3>
+<h3 align="center">🟢 Status: Desenvolvimento Concluído</h3>
 
 <br />
 
-<h3 align="center">📸 System prints</h3>
-<p align="center">See some system screens below</p>
+<h3 align="center">📸 Prints do Sistema</h3>
+<p align="center">Veja algumas telas do sistema abaixo</p>
 
 <table align="center">
   <tr>
@@ -32,7 +32,7 @@ Desktop application using Windows Forms to search for words.
 
 <br />
 
-<h3 align="center">🎨 Contributor(s)</h4>
+<h3 align="center">🎨 Contribuidores</h4>
 <table align="center">
   <tr>
     <td align="center">
